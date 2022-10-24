@@ -1,6 +1,6 @@
 # Chrome-Extension
 
-This is a chrome extension that allow to save URLs on the drop down window and display them for later use. 
+This is extension allows you to save URLs on the drop down window and display them for later use. 
 
 #
 
